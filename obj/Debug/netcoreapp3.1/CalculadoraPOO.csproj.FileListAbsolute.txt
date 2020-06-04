@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\SENAI\CalculadoraPOO\bin\Debug\netcoreapp3.1\CalculadoraPOO.exe
+C:\Users\Matheus\Desktop\SENAI\CalculadoraPOO\bin\Debug\netcoreapp3.1\CalculadoraPOO.deps.json
+C:\Users\Matheus\Desktop\SENAI\CalculadoraPOO\bin\Debug\netcoreapp3.1\CalculadoraPOO.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI\CalculadoraPOO\bin\Debug\netcoreapp3.1\CalculadoraPOO.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\SENAI\CalculadoraPOO\bin\Debug\netcoreapp3.1\CalculadoraPOO.dll
+C:\Users\Matheus\Desktop\SENAI\CalculadoraPOO\bin\Debug\netcoreapp3.1\CalculadoraPOO.pdb
+C:\Users\Matheus\Desktop\SENAI\CalculadoraPOO\obj\Debug\netcoreapp3.1\CalculadoraPOO.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI\CalculadoraPOO\obj\Debug\netcoreapp3.1\CalculadoraPOO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI\CalculadoraPOO\obj\Debug\netcoreapp3.1\CalculadoraPOO.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI\CalculadoraPOO\obj\Debug\netcoreapp3.1\CalculadoraPOO.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI\CalculadoraPOO\obj\Debug\netcoreapp3.1\CalculadoraPOO.dll
+C:\Users\Matheus\Desktop\SENAI\CalculadoraPOO\obj\Debug\netcoreapp3.1\CalculadoraPOO.pdb
+C:\Users\Matheus\Desktop\SENAI\CalculadoraPOO\obj\Debug\netcoreapp3.1\CalculadoraPOO.genruntimeconfig.cache
